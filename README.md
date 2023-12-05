@@ -5,7 +5,7 @@ The dataset is availbel in two versions:
 
 - Complete version contains: 
     -   microservices-based projects
-    -   uknonw microservices based projects (project where has not been possible determine if they are microservices-based or not)
+    -   unknown microservices-based projects (projects where has not been possible to determine if they are microservices-based or not)
     -   archived and not archived project
 
 - Filtered version contains: 
