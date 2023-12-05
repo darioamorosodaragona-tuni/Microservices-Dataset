@@ -1,0 +1,12 @@
+mongoexport --host "da1.eecs.utk.edu" --db=WoC
+--collection=P_metadata.U --query='{"$and":
+    [{"LatestCommitDate":{"$gte": 1609459201}},
+    {"LatestCommitDate": { "$lte": 1672531201}},
+    {"CommunitySize":{"$gte": 3}},
+    {"NumCommits":{"$gte":100}} ]}'
+--out=P.U.csv
+--type=csv --fields="_id,FileInfo,NumAuthors,MonNauth,
+    NumActiveMon,EarliestCommitDate,NumBlobs,
+    LatestCommitDate,ProjectID,MonNcmt,NumCore,
+    NumCommits,CommunitySize,NumFiles,Core,
+    NumForks"
