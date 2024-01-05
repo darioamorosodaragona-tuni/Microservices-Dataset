@@ -16,3 +16,5 @@ The complete version is available here: https://figshare.com/articles/dataset/Mi
 
 The filtered version is available here: https://figshare.com/articles/dataset/Microservices_Dataset_-_Filtered_version/24722232
 
+The _Picture 1_ shows the types of the labeled projects.
+The _Projects Purpose_Developed By_ shows the number of projects, in percentage, respect to the project purpose and the developer(s).
