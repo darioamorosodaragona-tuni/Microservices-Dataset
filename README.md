@@ -1,7 +1,7 @@
 # Microservices Dataset
 
-The dataset is public and it is available trough figshare.
-The dataset is availbel in two versions:
+The dataset is public, and it is available through figshare.
+The dataset is available in two versions:
 
 - Complete version contains: 
     -   microservices-based projects
