@@ -22,3 +22,15 @@ The _Number of projects per number of ms with type of application info_ shows th
 
 ## Todo: 
 - Adding table with column information
+
+## Copyritgh: 
+
+Permission to make digital or hard copies of part or all of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+for profit or commercial advantage and that copies bear this notice and the full citation
+on the first page. Copyrights for third-party components of this work must be honored.
+For all other uses, contact the owner/author(s).
+MSR ’24, April 15–16, 2024, Lisbon, Portugal
+© 2024 Copyright held by the owner/author(s).
+ACM ISBN 979-8-4007-0587-8/24/04
+https://doi.org/10.1145/3643991.3644890
