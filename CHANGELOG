@@ -1,0 +1,9 @@
+09/02/2023
+
+Columns mismatch fixed:
+
+1. Column 'dep_graph_micro' dropped:  the columns 'dep_graph_micro' and  'ms_depend_graph' was showing the same information.
+2. Column 'num_ms' dropped: the column 'num_ms' and 'num_services' was showing the same information.
+3. Column 'n_services' renamed to 'n_microservices': changed the name of the column to be more descriptive of the information it contains.
+
+
